@@ -61,7 +61,7 @@ This repository replicates the paper’s main identification and robustness chec
 ### Steps
 
 1. Open Stata and set the working directory to the project folder.
-2. Directly Run the `main.do` with Startdata.dta or export your data as .dta file first.
+2. Directly Run the `main.do` with `Startdata.dta` or export your data as .dta file first.
 
 ### What does the .do file produce
 
