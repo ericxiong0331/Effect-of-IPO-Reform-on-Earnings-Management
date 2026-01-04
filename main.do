@@ -1,4 +1,4 @@
-cd "C:\Users\32976\Desktop\大四下\毕业论文\数据\2024.5.14程序\ROA" 
+/*cd "Your working directory" */
 use Startdata.dta, clear
 
 set scheme s1mono 
