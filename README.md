@@ -1,7 +1,7 @@
 # Effect-of-IPO-Reform-on-Earnings-Management
 Causal Inference: Effect of Initial Public Offering Reform on Earnings Management
 
-This repository provides data and Stata replication code for an empirical study on how China’s IPO registration system reform affects IPO firms’ post-listing performance deterioration , measured by changes in profitability around the IPO year.
+This repository provides data and Stata replication code for an empirical study on how China’s IPO registration system reform affects IPO firms’ post-listing performance reversal, measured by changes in profitability around the IPO year.
 
 ## Project overview
 
